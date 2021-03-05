@@ -7,12 +7,12 @@
   "description": "All Copyright Go's To @ニロ#٣٨٩٢",
   "main": "index.js",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
-    "discord-player": "^3.2.0",
+    "discord-player": "^3.4.0",
     "discord.js": "^12.5.1",
     "express": "^4.17.1",
-    "ffmpeg": "0.0.4",
-    "ffmpeg-static": "^4.2.7"
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "^0.0.8"
   },
   "devDependencies": {},
   "scripts": {
