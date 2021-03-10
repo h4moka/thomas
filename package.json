@@ -1,0 +1,43 @@
+{
+    "name": "NEvo",
+    "version": "1.9.2",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^12.4.1",
+        "express": "^4.17.1",
+        "ffmpeg": "^0.0.4",
+        "ffmpeg-static": "^4.2.7",
+        "lyrics-finder": "^21.4.0",
+        "opusscript": "^0.0.8",
+        "quick.db": "^7.1.3",
+        "string-progressbar": "^1.0.1",
+        "ytdl-core": "^4.0.0",
+        "@discordjs/opus": "^0.3.3",
+        "discord-ytdl-core": "^4.1.3",
+        "figlet": "^1.5.0",
+        "node.js": "0.0.1-security",
+        "youtube-sr": "^1.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0.git\"",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0.git"
+    },
+    "keywords": [
+        "NIR0",
+        "القمر",
+        "RZX",
+        "NAAR"
+    ],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0.git"
+    },
+    "homepage": "https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0.git"
+}
