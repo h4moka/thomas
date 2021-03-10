@@ -25,7 +25,7 @@ go to `Config` folder and edit `bot.json` file
 then you edit the `bot.json` file install the packges with this command
 
 ```
-npm install --save @discordjs/opus discord-player discord.js express ffmpeg-static ffmpeg
+npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finder string-progressbar ytdl-core discord-ytdl-core youtube-sr
 ```
 
 then run the project with this command
@@ -46,6 +46,6 @@ npm start
 
 ## 🌀 Support
 
-[Naar Server](https://discord.gg/V4uUGjCEmh)
+[Naar Server](https://discord.gg/naar)
 
 [NCR Codes](https://discord.gg/Q3yZfkWj3q)
