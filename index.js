@@ -181,4 +181,15 @@ function delay(delayInms) {
             resolve(2);
         }, delayInms);
     });
-}
+} client.on("ready", () => {
+  
+  let statuses = [`Z O R O`,`&help`,`GUITARIST❤`]
+ 
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    client.user.setActivity(STREAMING, {
+      type: "STREAMING",
+      url: "https://www.twitch.tv/CAMPERpaywand"
+    });
+  }, 2000);
+});
